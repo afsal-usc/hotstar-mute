@@ -14,18 +14,14 @@ You can turn the extension on or off anytime from the popup. Made for personal u
 
 **Get the files on your computer**
 
-```bash
-git clone https://github.com/YOUR_USERNAME/hotstar-mute
-```
-
-(Or download the zip from the repo and extract it.)
+[Click here to download the zip file](https://github.com/afsal-usc/hotstar-mute/archive/refs/heads/main.zip). Extract it after downloading.
 
 ### Google Chrome
 
 1. Open **Chrome** and go to `chrome://extensions/`
 2. Turn on **Developer mode** (top-right corner)
 3. Click **Load unpacked**
-4. Select the `hotstar-mute` folder (the one that contains `manifest.json`)
+4. Select the extracted folder (e.g. `hotstar-mute-main`—the one that contains `manifest.json`)
 5. Done. Ads should now be muted during live streams on Hotstar.
 
 **Other Chromium browsers** (Edge, Brave, Opera): Same steps, but use `edge://extensions/`, `brave://extensions/`, or the equivalent for your browser.
